@@ -1,0 +1,4 @@
+#Sun Jul 12 11:15:41 ICT 2020
+base.0=D\:\\KULIAH\\smt 6\\PEMROGRAMAN ANDROID\\uas\\Info-COVID-19\\Info-COVID-19\\CoronaInfo\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
